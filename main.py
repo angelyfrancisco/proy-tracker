@@ -1,2 +1,8 @@
 def main():
-    print("Ge")
+    
+
+
+def user_info():
+    input
+    
+    
